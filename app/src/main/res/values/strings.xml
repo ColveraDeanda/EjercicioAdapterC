@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ejercicioadapter</string>
+    <string name="texto_turkey">The Turkey says...</string>
+    <string name="texto_duck">The Duck says...</string>
+    <string name="texto_turkey_adapter">The TurkeyAdapte says...</string>
+    <string name="texto_tukey_adapter">Turkey Adapter Says...</string>
+    <string name="texto_escuela">Universidad Tecnológica del Norte de Guanajuato</string>
+    <string name="texto_materia">Desarrollo de aplicaciones ll</string>
+    <string name="texto_profesor">Apolinar Trejo Cuevas</string>
+    <string name="texto_aplicacion">EjercicioAdapter</string>
+    <string name="texto_nombre">Cristóbal Olvera Deanda</string>
+    <string name="texto_fecha">29 de Septiembre de 2017</string>
+    <string name="texto_creditos">Creditos</string>
+</resources>
+
